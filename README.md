@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 🔭 I’m currently working on **my last year of University**
+- 🔭 I’m a recent graduate at the University of Toronto 
 
 - 🌱 I’m currently learning **flask, MongoDB, pytorch**
 
